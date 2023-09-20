@@ -101,6 +101,7 @@ figure {
   left: 0;
   right: 0;
   background: rgba(17, 17, 17, 0.9);
+  
 }
 
 #fh5co-header .display-t,
@@ -744,11 +745,11 @@ figure {
 }
 
 .progress-bar.progress-bar-1 {
-  background-color: #2980b9 !important;
+  background-color: #3b1163 !important;
 }
 
 .progress-bar.progress-bar-2 {
-  background-color: #c0392b !important;
+  background-color: #7605f7 !important;
 }
 
 .progress-bar.progress-bar-3 {

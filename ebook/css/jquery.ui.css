@@ -1,7 +1,7 @@
 .turnjs-slider{
 	width:600px;
 	height:8px;
-	background:rgba(0,0,0, 0.2);
+	background: rgb(0 0 0);
 	-webkit-border-radius:5px;
 	-moz-border-radius:5px;
 	-o-border-radius:5px;
@@ -123,8 +123,8 @@
 ----------------------------------*/
 .turnjs-slider .ui-slider-handle{
 	border:1px solid white;
-	background-color:black;
-	opacity:0.2;
+    background-color: white;
+    opacity: 0.9;
 	display:block;
 	-webkit-transition:opacity 0.2s;
 	-moz-transition:opacity 0.2s;
