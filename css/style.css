@@ -354,6 +354,7 @@ figure {
   padding: 0;
   width: 90%;
   margin-bottom: 2.5em;
+  margin-top: 1em;
 }
 
 
@@ -1526,3 +1527,6 @@ input[type="text"] {
   }
 }
 
+.profile_pic{
+  width: 300px;
+}
