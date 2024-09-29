@@ -307,6 +307,10 @@ body {
     width: 100%;
     margin-bottom: 20px;
   }
+  .right video{
+    width: 100%;
+    margin-top: 1.7vw;
+  }
 
 
   .video-container {
